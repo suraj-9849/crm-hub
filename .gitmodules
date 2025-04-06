@@ -1,0 +1,6 @@
+[submodule "Hubspot-CRM"]
+	path = Hubspot-CRM
+	url = https://github.com/suraj-9849/Hubspot-CRM.git
+[submodule "Zoho-CRM"]
+	path = Zoho-CRM
+	url = https://github.com/suraj-9849/Zoho-CRM.git
